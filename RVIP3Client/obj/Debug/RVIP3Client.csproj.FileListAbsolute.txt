@@ -1,0 +1,8 @@
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\bin\Debug\RVIP3Client.exe.config
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\bin\Debug\RVIP3Client.exe
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\bin\Debug\RVIP3Client.pdb
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\bin\Debug\RVIP3Classes.dll
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\bin\Debug\RVIP3Classes.pdb
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\obj\Debug\RVIP3Client.exe
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\obj\Debug\RVIP3Client.pdb
+c:\Users\user\documents\visual studio 2015\Projects\RVIP3\RVIP3Client\obj\Debug\RVIP3Client.csprojResolveAssemblyReference.cache

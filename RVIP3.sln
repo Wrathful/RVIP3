@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVIP3", "RVIP3\RVIP3.csproj", "{14CF57D6-0CA2-4133-8F34-3A88FE7516DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVIP3Classes", "RVIP3Classes\RVIP3Classes.csproj", "{FAD409B7-3EBD-4A43-AD5F-F64BC09E292F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVIP3Client", "RVIP3Client\RVIP3Client.csproj", "{B5BB3561-1074-43FE-B6D4-979467D14180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CF57D6-0CA2-4133-8F34-3A88FE7516DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF57D6-0CA2-4133-8F34-3A88FE7516DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF57D6-0CA2-4133-8F34-3A88FE7516DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF57D6-0CA2-4133-8F34-3A88FE7516DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD409B7-3EBD-4A43-AD5F-F64BC09E292F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD409B7-3EBD-4A43-AD5F-F64BC09E292F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD409B7-3EBD-4A43-AD5F-F64BC09E292F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD409B7-3EBD-4A43-AD5F-F64BC09E292F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BB3561-1074-43FE-B6D4-979467D14180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BB3561-1074-43FE-B6D4-979467D14180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BB3561-1074-43FE-B6D4-979467D14180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BB3561-1074-43FE-B6D4-979467D14180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
